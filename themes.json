@@ -1,0 +1,86 @@
+{
+  "Monochrome": {
+    "background": "#000000",
+    "surface": "#111111",
+    "border": "#333333",
+    "text": "#FFFFFF",
+    "text_muted": "#999999",
+    "primary": "#FFFFFF",
+    "secondary": "#CCCCCC",
+    "tertiary": "#777777",
+    "success": "#4ADE80",
+    "danger": "#F87171"
+  },
+  "Winter Dark": {
+    "background": "#0B111A",
+    "surface": "#131C28",
+    "border": "#223247",
+    "text": "#F1F5F9",
+    "text_muted": "#7E95AC",
+    "primary": "#38BDF8",
+    "secondary": "#818CF8",
+    "tertiary": "#2DD4BF",
+    "success": "#4ADE80",
+    "danger": "#F87171"
+  },
+  "Nord": {
+    "background": "#2E3440",
+    "surface": "#3B4252",
+    "border": "#4C566A",
+    "text": "#ECEFF4",
+    "text_muted": "#9AA8BF",
+    "primary": "#88C0D0",
+    "secondary": "#81A1C1",
+    "tertiary": "#5E81AC",
+    "success": "#A3BE8C",
+    "danger": "#BF616A"
+  },
+  "Dracula": {
+    "background": "#282A36",
+    "surface": "#343746",
+    "border": "#44475A",
+    "text": "#F8F8F2",
+    "text_muted": "#6272A4",
+    "primary": "#BD93F9",
+    "secondary": "#FF79C6",
+    "tertiary": "#8BE9FD",
+    "success": "#50FA7B",
+    "danger": "#FF5555"
+  },
+  "Solarized Dark": {
+    "background": "#002B36",
+    "surface": "#073642",
+    "border": "#586E75",
+    "text": "#EEE8D5",
+    "text_muted": "#93A1A1",
+    "primary": "#268BD2",
+    "secondary": "#2AA198",
+    "tertiary": "#B58900",
+    "success": "#859900",
+    "danger": "#DC322F"
+  },
+  "Forest": {
+    "background": "#10231A",
+    "surface": "#16301F",
+    "border": "#2E4A36",
+    "text": "#E7F2E8",
+    "text_muted": "#8FB09B",
+    "primary": "#4CAF7D",
+    "secondary": "#7FD1AE",
+    "tertiary": "#D9A441",
+    "success": "#6FCF97",
+    "danger": "#E06C75"
+  },
+  "Sunset Warm": {
+    "background": "#1B1410",
+    "surface": "#241B15",
+    "border": "#3D2E22",
+    "text": "#FBEFE4",
+    "text_muted": "#B89A82",
+    "primary": "#F2994A",
+    "secondary": "#EB5757",
+    "tertiary": "#F2C94C",
+    "success": "#6FCF97",
+    "danger": "#EB5757"
+  }
+}

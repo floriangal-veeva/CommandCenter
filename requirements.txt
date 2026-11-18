@@ -1,0 +1,7 @@
+customtkinter
+yfinance
+matplotlib
+feedparser
+pystray
+pillow
+pywin32

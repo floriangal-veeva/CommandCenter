@@ -1,0 +1,33 @@
+{
+  "theme": "Sunset Warm",
+  "ui_font": "Segoe UI",
+  "mono_font": "Consolas",
+  "launcher_items": [
+    {
+      "label": "Veeva Mail",
+      "target": "https://mail.google.com/mail/u/0/#inbox"
+    },
+    {
+      "label": "BH",
+      "target": "https://veeva-lynx.veevavault.com/ui/#t/0TB00000001P003/V5O/V5O000000047001?expanded=details__c&idx=0&pt=aobj&tvsl=JmNvbmZpZ05hbWU9c2VydmljZXNfcmVzb3VyY2VfX2MmbG9jYXRpb25JZD0wVEIwMDAwMDAwMVAwMDMmc2VhcmNoVHlwZT12b2ZTb2xyJml2cD0xJnNvcnRGaWVsZHMlNUIwJTVEJTVCdmFsdWUlNUQ9bmFtZV9fdiZzb3J0RmllbGRzJTVCMCU1RCU1Qm9yZGVyJTVEPWFzYyZjdXN0b21EYXRhJTVCdmlld0lkJTVEPWZhdiZjdXN0b21EYXRhJTVCdGFiSWQlNUQ9MFRCMDAwMDAwMDFQMDAz&ivp=1&_layout=weekly_homepage__c&s=0"
+    }
+  ],
+  "billable_categories": [],
+  "service_resource": "",
+  "date_performed_format": "%Y-%m-%d",
+  "news_feeds": {
+    "Hungarian": [
+      "https://telex.hu/rss"
+    ],
+    "Movies": [
+      "https://variety.com/feed/"
+    ],
+    "Tech": [
+      "https://www.theverge.com/rss/index.xml"
+    ],
+    "Gaming": [
+      "https://www.pcgamer.com/rss/"
+    ]
+  },
+  "muted_keywords": []
+}
