@@ -74,3 +74,6 @@ logs/
 - Open/arbitrary shell access — Mini-CMD is intentionally a fixed command allowlist, not a general terminal
 
 See `command_center_spec.md` for the full build spec and the reasoning behind these calls.
+
+<img width="959" height="515" alt="image" src="https://github.com/user-attachments/assets/09448c2c-ff96-48ce-bbd9-78306e11dee0" />
+
